@@ -4,6 +4,10 @@ TimerSimple is a polished SwiftUI timer app designed around expressive timer exp
 
 This public repository is a portfolio showcase only. The production source code, Xcode project, assets, binaries, and installable builds are intentionally not published here because TimerSimple is a commercial app planned for App Store release.
 
+## Design Prototype
+
+![TimerSimple Design Prototype](Design-Prototype.png)
+
 ## Product Highlights
 
 - SwiftUI iOS app with multiple premium visual timer themes.
